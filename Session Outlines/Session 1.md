@@ -6,13 +6,13 @@
 
 ## Orientation
 
-Before you begin play, show the players the Strixhaven poster map that accompanies this book so they have an understanding of how the university is laid out.
-
 With the characters arrive at the Biblioplex, read or paraphrase the following:
 
 >*Majestic marble archways, tomes seemingly stacked for miles, and the infectious energy of hundreds of young adults fill the Biblioplex, the grand library at the heart of Strixhaven University. The sights, sounds, and sparks of magic in the air are wondrous.*
 > 
 > *Your acceptance letter stated that you must report to the Biblioplex's Hall of Oracles to receive instructions on new-student orientation. The hall sits at the center of the Biblioplex's first floor, and you can already see students gathering there.*
+
+Players can grab a map of the Biblioplex by the front door.
 
 Orientation instructions are given in the Hall of Oracles every few minutes, so let the players know that their characters can explore the Biblioplex further before heading over. If the characters choose to explore before orientation, make sure they see other new students engaging in their own versions of the scavenger hunt, each unique to that set of students (see "[Orientation Challenge](https://5e.tools/adventure.html#SCC-CK,0,orientation%20challenge,0)" later in this chapter).
 

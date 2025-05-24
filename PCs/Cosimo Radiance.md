@@ -1,1 +1,3 @@
-![[Cosimo Radiance.jpg|250]]
+![[Cosimo Character Art.jpg|250]]
+Species: Human
+Class: Druid
