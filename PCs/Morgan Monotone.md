@@ -1,0 +1,1 @@
+![[Morgan Monotone.jpg|250]]
