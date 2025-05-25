@@ -3,6 +3,11 @@
 2. Bring your schedule to your college advisors
 3. Participate in the orientation scavenger hunt
 4. Meet other students and learn about clubs
+	- B8: Rosie Wuzfeddlims prepping for a LARP event (one prop eventually turns into a beholder)
+	- B9: Urzmaktok Grojsh is recruiting students for the Fantastical Horticulture Club
+	- B12: Cadoras Damellawar is recruiting students for the Distinguished Society of Fine Artists
+	- B13: Quentillius Antiphiun Melentor III is recruiting students for the Playactor's Drama Guild
+	- B14: Other clubs and students recruiting can be found here
 
 ## Orientation
 
