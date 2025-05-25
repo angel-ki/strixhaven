@@ -9,7 +9,7 @@
 | Greta Gorunn                      | She/Her   | 1    | Dwarf       | Barbarian | CG        | Lorehold    | Equipment Asst.- Stadium, Iron Lifters                    |
 | Rosimyffenbip “Rosie” Wuzfeddlims | She/Her   | 1    | Gnome       | Artificer | G         | Lorehold    | Referee, LARP Guild                                       |
 | Javenesh Stoutclaw                | He/They   | 2    | Owlin       | Sorcerer  | NG        | Lorehold    | Bow’s End Asst. Mgr, Silkball                             |
-| Caldoras Damellawar               | He/Him    | 1    | Elf         | Ranger    | CG        | Quandrix    | Fine Artists Society, LARP Guild                          |
+| Cadoras Damellawar                | He/Him    | 1    | Elf         | Ranger    | CG        | Quandrix    | Fine Artists Society, LARP Guild                          |
 | Larine Arneza                     | She/Her   | 1    | Human       | Druid     | NG        | Quandrix    | Ticker Taker - Performing Arts Society, Waterdancing Club |
 | Tilana Kapule                     | She/They  | 1    | Human       | Warlock   | NG        | Quandrix    | Dragonchess, Silkball                                     |
 | Drazhomir Yarnask                 | He/They   | 2    | Minotaur    | Cleric    | NG        | Quandrix    | Biblioplex Book Clerk, Dead Languages Society             |
