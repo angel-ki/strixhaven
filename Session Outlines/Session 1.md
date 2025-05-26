@@ -1,5 +1,5 @@
 1. Choosing schedule
-	- Choose three courses. One must be the magical physiology course.
+	- Choose three courses.
 2. Bring your schedule to your college advisors
 3. Participate in the orientation scavenger hunt
 4. Meet other students and learn about clubs
@@ -8,6 +8,7 @@
 	- B12: Cadoras Damellawar is recruiting students for the Distinguished Society of Fine Artists
 	- B13: Quentillius Antiphiun Melentor III is recruiting students for the Playactor's Drama Guild
 	- B14: Other clubs and students recruiting can be found here
+
 
 ## Orientation
 
@@ -18,6 +19,13 @@ When the characters arrive at the Biblioplex, read or paraphrase the following:
 > *Your acceptance letter stated that you must report to the Biblioplex's Hall of Oracles to receive instructions on new-student orientation. The hall sits at the center of the Biblioplex's first floor, and you can already see students gathering there.*
 
 Players can grab a map of the Biblioplex by the front door.
+
+They must first meet with their advising professors.
+- Lorehold: Professor Erasmus Vanderfitz
+- Prismari: Iggy
+- Quandrix: Professor Deekah
+- Silverquill: Professor Blackstone
+- Witherbloom: Professor Crow
 
 Orientation instructions are given in the Hall of Oracles every few minutes, so let the players know that their characters can explore the Biblioplex further before heading over. If the characters choose to explore before orientation, make sure they see other new students engaging in their own versions of the scavenger hunt, each unique to that set of students (see "[Orientation Challenge](https://5e.tools/adventure.html#SCC-CK,0,orientation%20challenge,0)" later in this chapter).
 
@@ -117,4 +125,4 @@ If the characters chat with the professor, she reassures them that this was an u
 
 Characters who examine the mimic and succeed on a ==DC 12 Wisdom (Perception) check== notice that the defeated table's wood and leather has been rubbed with a black, oily substance. If asked about this, Professor Sharpbeak says it's likely just a leather conditioner. With no magic remaining in the eldritch balm to reveal the contamination, she has no explanation for why the trunk temporarily turned into a mimic and attacked.
 
-As the players leave orientation, they see a small group of students in dark blue, hooded robes speaking in whispers and rushing toward the Archway Commons.
+As the players leave orientation, they see three students in dark blue, hooded robes speaking in whispers and rushing toward the Archway Commons.
