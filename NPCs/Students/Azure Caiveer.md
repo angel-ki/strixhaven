@@ -1,6 +1,9 @@
 ![[Azure Caiveer.webp|250]]
 Background
-
+- Prismari Student
+	- Interested in telling stories through art whether that be music or otherwise
+- Member of the Hooker Society and an RA
+- Occasionally assists with the Strixhaven Star
 ### Personality Traits
 - She likes to explore and her curiousity will get her into trouble sometimes.
 ### Ideals
