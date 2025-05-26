@@ -11,7 +11,7 @@
 
 ## Orientation
 
-With the characters arrive at the Biblioplex, read or paraphrase the following:
+When the characters arrive at the Biblioplex, read or paraphrase the following:
 
 >*Majestic marble archways, tomes seemingly stacked for miles, and the infectious energy of hundreds of young adults fill the Biblioplex, the grand library at the heart of Strixhaven University. The sights, sounds, and sparks of magic in the air are wondrous.*
 > 
