@@ -1,9 +1,0 @@
-{
-	"nodes":[
-		{"id":"9b6eeba7a54601b1","type":"text","text":"Session 1 Notes\n\nCourses:\nAugustus - Thorn in One's Side\nAvery - Falling Into Ruin\nCosimo - Basking in the Glow\nLennian - Thorn in One's Side\nMorgan - Falling Into Ruin\n\nMorgan joined the Distinguished Society of Fine Artists\n- Meeting on Wednesday\nCosimo and Avery joined the Dragonsguard Historical Society\n- They'll meet on Thursday night\nLennian joined the Fantastical Horticultural Club\n\nThey all grab potions","x":20,"y":-320,"width":600,"height":340},
-		{"id":"f19cccf8c37fc905","type":"file","file":"git-backup/Session Outlines/Session 1.md","x":-620,"y":-460,"width":600,"height":460}
-	],
-	"edges":[
-		{"id":"f23d8134fe39f780","fromNode":"f19cccf8c37fc905","fromSide":"right","toNode":"9b6eeba7a54601b1","toSide":"left"}
-	]
-}
