@@ -12,7 +12,7 @@ In last session:
 
 To find a food source players can:
 - search for Professor Crow and ask for her assistance
-- Wander to Witherbloom (players would then run into Indica)
+- Wander to Witherbloom (players would then run into Indica who would then take them to Professor Valentin)
 
 With a DC 12 Intelligence (Arcana) check, a player can tell that there is some kind of magic surrounding the sign and this path. 
 
