@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"50e39835912a4f05","type":"file","file":"git-backup/Session Outlines/Session 2.md","x":-520,"y":-260,"width":580,"height":400},
+		{"id":"b2fa9f736cb90121","type":"text","text":"Notes\n","x":120,"y":-260,"width":580,"height":540}
+	],
+	"edges":[
+		{"id":"cc4e5bba1f4cc100","fromNode":"50e39835912a4f05","fromSide":"right","toNode":"b2fa9f736cb90121","toSide":"left"}
+	]
+}

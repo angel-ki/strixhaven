@@ -1,0 +1,8 @@
+- Three Sects
+	- "True" Oriq
+		- Dragon Cultists
+		- Finding a the phylactery and the perfect body for the Dracolich
+	- Extus
+		- Blood magic and resurrecting the blood monstrosity
+	- The Eclipse
+		- Focus on bringing hidden history of Strixhaven and Arcavios to light

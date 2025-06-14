@@ -1,0 +1,3 @@
+![[Zor Bazhio.jpg|250]]
+Murgaxor is currently masquerading as Zor Bazhio, a second year student (this body originally belonged to one of his victims and was his first successful attempt at necromancy with the eldritch balm).
+He technically works with the Oriq but they're both using each other. The Oriq wants his alchemy for bringing back the Dracolich and he wants their protection before he can become a lich and leave them behind.

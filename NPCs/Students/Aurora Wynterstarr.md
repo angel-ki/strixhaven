@@ -1,1 +1,0 @@
-![[Aurora Wynterstarr.png|250]]
