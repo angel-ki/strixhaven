@@ -1,7 +1,7 @@
 {
 	"nodes":[
 		{"id":"50e39835912a4f05","type":"file","file":"git-backup/Session Outlines/Session 2.md","x":-520,"y":-260,"width":580,"height":400},
-		{"id":"b2fa9f736cb90121","type":"text","text":"Notes\n","x":120,"y":-260,"width":580,"height":540}
+		{"id":"b2fa9f736cb90121","type":"text","text":"Notes:\nLetter was sent to witherbloom\nAvery will meet with Prof. Sharpbeak at 10 AM the next day\n- playlist\n\nMorgan, Gust, Aurora, and Avery will all be hungover\nBri will have a level of exhaustion ?\nLennian was just drunk\n\n\nIndi gave Morgan pixie dust\nThey met Professor Valentin and he gave Gust 1 human pint and 4 pints of various animals to be eaten over the next 48 hours\nGust remembered Indi's name without prompting\nAzure and Mina bring them home safely\n\n","x":120,"y":-260,"width":580,"height":540}
 	],
 	"edges":[
 		{"id":"cc4e5bba1f4cc100","fromNode":"50e39835912a4f05","fromSide":"right","toNode":"b2fa9f736cb90121","toSide":"left"}

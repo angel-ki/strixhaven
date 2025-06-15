@@ -2,7 +2,7 @@
 **Spellcasting Ability** Intelligence ; **Spell Save DC** 12 ; **Spells Attack Bonus** +5  
 **Daily Spells to prepare** 3 ; **Slots** 2  
 **Known Spells** (3) / 6  
-- Lvl 0 : _mage hand_, _mind sliver_, _prestidigitation_  
+- Lvl 0 : _mage hand_, _mind sliver_, *prestidigitation*  
 - Lvl 1 : _cause fear_, _detect magic_, _ray of sickness_, _shield_, _silvery barbs_, *tasha's caustic brew*
 ### Personality Traits
 - Mortally afraid to let his friends know how badly he wishes to be human again.
