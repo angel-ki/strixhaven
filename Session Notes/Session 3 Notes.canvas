@@ -1,1 +1,7 @@
-{}
+{
+	"nodes":[
+		{"id":"18c976b994d9e2db","x":-560,"y":-200,"width":540,"height":400,"type":"file","file":"git-backup/Session Outlines/Session 3.md"},
+		{"id":"f966c81e6f1a3a0c","x":20,"y":-160,"width":520,"height":360,"type":"text","text":"Session 3 Notes"}
+	],
+	"edges":[]
+}
