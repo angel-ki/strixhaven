@@ -1,7 +1,8 @@
 {
 	"nodes":[
-		{"id":"18c976b994d9e2db","x":-560,"y":-200,"width":540,"height":400,"type":"file","file":"git-backup/Session Outlines/Session 3.md"},
-		{"id":"f966c81e6f1a3a0c","x":20,"y":-160,"width":520,"height":360,"type":"text","text":"Session 3 Notes"}
+		{"id":"f966c81e6f1a3a0c","type":"text","text":"Session 3 Notes\n- 50 gold once a month for Avery's stipend\n\nThe party is in the Strixhaven Star in an article by Mina Lee\n\nLennian and Cosimo make a plan to create blood popsicle. They find a note that reads Meet me at Witherbloom on Gust's desk with doodles on it.\n\nProfessor Vanderfitz offers to talk to Cosimo about artifacts\n\nMade enemies with a student over a rumor that four people died in Quandrix\n\nThey meet Drazhomir Yarnask. They find out Emban Sharoth goes to Dragonchess Club.\n\nAvery admits he doesn't see his parents that much and that he wants to be a professor. He is afraid his parents think he's lollygagging.\n\n","x":20,"y":-260,"width":520,"height":460},
+		{"id":"3f4f83096a4dcfae","type":"file","file":"git-backup/Locations/Radiance/The Night Market.md","x":-560,"y":260,"width":1100,"height":400},
+		{"id":"18c976b994d9e2db","type":"file","file":"git-backup/Session Outlines/Session 3.md","x":-760,"y":-280,"width":720,"height":400}
 	],
 	"edges":[]
 }
