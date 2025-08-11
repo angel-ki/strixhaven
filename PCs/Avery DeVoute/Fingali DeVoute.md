@@ -4,6 +4,7 @@
 - Male, human wizard. Prim and proper and inquisitive. Unshakeable curiosity. 
 - It’s hard for Avery to bond with his father if it's not related to academics. 
 - Fingali is incredibly prideful about Avery’s performance, “No, son of mine would fail.”
+- Back Alley Boys band when in college
 
 ### Personality Traits
 - 

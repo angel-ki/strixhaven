@@ -1,7 +1,8 @@
 {
 	"nodes":[
-		{"id":"ede5a1971a97e7c1","type":"file","file":"git-backup/Session Outlines/Session 4.md","x":-720,"y":-520,"width":760,"height":400},
-		{"id":"219ea80589fb6b7f","type":"file","file":"git-backup/Locations/Radiance/The Night Market.md","x":-660,"y":-20,"width":860,"height":400}
+		{"id":"219ea80589fb6b7f","type":"file","file":"git-backup/Locations/Radiance/The Night Market.md","x":-660,"y":-20,"width":860,"height":400},
+		{"id":"bca205a3c1b76810","type":"text","text":"Party goes to library to learn about Dragonchess; Dragonchess for Dummies\n\nBertram Benningham's Adventures in Dragonchess is the old giant tome\n\nMorgan is reading Why is My Rival Kind of Hot?\n\nAvery and Cosimo will have ADV on a roll relating to Dragonchess.\n\nLennian, Gust, and Morgan go to Firejolt while Cosimo and Avery play Dragonchesss and win.\nHowever, Emban pulls a fake move (calling on a founding dragon) and discovers Cosimo and Avery were bluffing about their Dragonchess skill. Avery yells that Emban is a thief in front of everyone.\nLennian and Morgan say they will buy Drazhomir's book when he publishes it.\nEmban and Avery get into it. Emban tells him stop acting like a child and Avery yells, \"I hate you.\" Emban learned that Avery is related to the DeVoute's\nEmban's bond bane is that You find that school supplies at the night market are either outrageously expensive or in poor quality.\n\nAvery and Morgan and Cosimo are approved as library workers on a trial basis.\nAvery is rivals with Emban because Emban called him a child and Emban, \"Whatever.\"\n","x":-140,"y":-480,"width":560,"height":360},
+		{"id":"ede5a1971a97e7c1","type":"file","file":"git-backup/Session Outlines/Session 4.md","x":-1040,"y":-600,"width":760,"height":400}
 	],
 	"edges":[]
 }
