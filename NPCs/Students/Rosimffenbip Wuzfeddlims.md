@@ -1,11 +1,15 @@
 ![[Rosimyffenbip Rosie Wuzfeddlims.png|250]]
 **Background**
+- Lorehold student
+- She moves so quickly that it is unclear if it is her natural ability or some gnomish contraption
+- Member of the Live Action Role Playing Guild and only plays monsters so she can chase after other students
+- Works as the Intramural Fields referee
 - Rosie is from Radiance
 ### Personality Traits
-- She faces problems head on and is not afraid to address her problems with others directly.
+- I face problems head on and am not afraid to address my problems with others directly.
 ### Ideals
 - Material goods come and go. Bonds of friendship last forever.
 ### Bonds
-- Her teammates are her family.
+- My teammates are my family.
 ### Flaws
-- His undead vigor has left him disregarding his life in battle and dangerous situations.
+- I get bored easily, and if nothing is happening I'll make something happen.

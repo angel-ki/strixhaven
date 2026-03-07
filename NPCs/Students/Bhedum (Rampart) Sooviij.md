@@ -13,5 +13,6 @@ Background
 - Fairness. We all do the work, so we all share in the rewards.
 ### Bonds
 - I strive to live up to Xyrun-Jed's example.
+- Ever since I was a child, I've heard stories about a lost city. I aim to find it, learn its secrets, and earn my place in the history books.
 ### Flaws
 - I wear armor at all times in order to better understand the subjects of my research.
