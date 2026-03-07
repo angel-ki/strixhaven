@@ -8,10 +8,14 @@ She has a complex relationship with her homeland. While she loves Akharin Sangar
 
 In recent years, the weight of leadership has taken a toll on [Sholeh](https://5e.tools/bestiary.html#sholeh_jttrc). She picks her scales in private as she tries to find relief.
 
-Personality Trait. "True leaders must see what others do not, but they must remain connected to those they lead."
+### Personality Trait
+"True leaders must see what others do not, but they must remain connected to those they lead."
 
-Ideal. "I will find the missing twelve and bring back the full glory of the Radiant Citadel."
+### Ideal
+"I will find the missing twelve and bring back the full glory of the Radiant Citadel."
 
-Bond. "I love the city and all its people. I will do anything for them."
+### Bond
+"I love the city and all its people. I will do anything for them."
 
-Flaw. "Do I exist only because others need me?"
+### Flaw
+"Do I exist only because others need me?"

@@ -4,10 +4,14 @@ Now in his forties, he leads the Shieldbearers. He is a canny tactician and a hi
 
 In secret, Arayat drinks heavily. It is the only way he can sleep at night.
 
-Personality Trait. "I will do anything and everything to protect the innocent."
+### Personality Trait
+"I will do anything and everything to protect the innocent."
 
-Ideal. "I was born to save those who cannot save themselves."
+### Ideal
+"I was born to save those who cannot save themselves."
 
-Bond. "The Shieldbearers are my family and the Citadel my home."
+### Bond
+"The Shieldbearers are my family and the Citadel my home."
 
-Flaw. "I cannot stop seeing the faces of those I've lost."
+### Flaw
+"I cannot stop seeing the faces of those I've lost."

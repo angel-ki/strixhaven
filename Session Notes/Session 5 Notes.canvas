@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"bb62f022b6f462f7","x":-880,"y":-315,"width":560,"height":400,"type":"file","file":"git-backup/Session Outlines/Session 5.md"},
+		{"id":"725c23057cbbccb4","x":-780,"y":200,"width":680,"height":400,"type":"file","file":"git-backup/Locations/Radiance/The Night Market.md"},
+		{"id":"d9afa6082f6acbc2","x":-7,"y":300,"width":700,"height":400,"type":"file","file":"git-backup/Locations/Radiance/The Salted Legacy.md"},
+		{"id":"5612cdfe153de17c","x":-60,"y":-240,"width":525,"height":375,"type":"text","text":"Session 5 Notes"}
+	],
+	"edges":[]
+}

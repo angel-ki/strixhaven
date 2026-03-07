@@ -1,4 +1,8 @@
 ![[Indica Greene.jpg|250]]
+### Background
+- Second year Witherbloom student
+- Works as the campus dealer
+- Friends with Mina Lee, Azure Caiveer, and Larine Arneza
 ### Personality Traits
 - I love gold but won't cheat a friend.
 ### Ideals

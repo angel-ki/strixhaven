@@ -1,5 +1,5 @@
 # Shops
-- Just for Strix. School supply shop run by a second year quandrix student, Emban Sharoth. This stall sells basic magic items, nonmagical school supplies, and limited edition Strixhaven merch. 
+- Just for Strix. School supply shop run by a second year Quandrix student, Emban Sharoth. This stall sells basic magic items, nonmagical school supplies, and limited edition Strixhaven merch. 
 - Madam Kulp's Silk. This store sells luxurious silk garments for no less than 50 gp apiece.
 - Potions for Popular People. This store sells potions. The cheapest is 50 gp.
 - Spicy Brothers. This stall sells spices, peppers, and spicy dishes like cucumber fire smoothies and [honey-glazed hot chips](https://5e.tools/recipes.html#spicy%20brothers%20honey-glazed%20hot%20chips_hfdomm) for 5 sp each.    
@@ -19,7 +19,7 @@ Kasem's twin and co-owner of Spicy Brothers, [Vi Aroon](https://5e.tools/bestia
 ### Lamai Tyenmo
 [Lamai Tyenmo](https://5e.tools/bestiary.html#lamai%20tyenmo_jttrc) (lawful good, gnome [commoner](https://5e.tools/bestiary.html#commoner_mm)) has dark, wild hair and a wide smile. She recently took over as head of the Tyenmo family business, Tyenmo Noodles. The weight of the new responsibility hangs heavy on her, but she is determined to make her family proud.
 ## Madam Kulp
-[Madam Kulp](https://5e.tools/bestiary.html#madam%20kulp_jttrc) is a gnome seamster who works with the silk of tut-krogh caterpillars. 
+[Madam Kulp](https://5e.tools/bestiary.html#madam%20kulp_jttrc) is a gnome seamstress who works with the silk of tut-krogh caterpillars. 
 
 [![Madam Kulp](https://5e.tools/img/adventure/JttRC/017-02-005.madam-kulp.webp)](https://5e.tools/img/adventure/JttRC/017-02-005.madam-kulp.webp "Madam Kulp. Art credit: Zuzanna Wužyk")
 
