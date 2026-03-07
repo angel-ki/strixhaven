@@ -1,5 +1,9 @@
 ![[Aurora Wynterstarr.png|250]]
 ### Background
+- Dhampir
+- Witherbloom student
+- Member of the Strixhaven Show Band Association
+- Works as a Strixhaven Stadium groundskeeper
 - She feels compassionate for Gust's situation but does not understand it.
 - Aurora does not know but her father, Professor Valentin, is Oriq and wants to use her voice and skill with prophecy for the Oriq's benefit? 
 - They are both sangromancers but Aurora has an ability to hear song in the blood she consumes. This song sometimes sounds like the future.

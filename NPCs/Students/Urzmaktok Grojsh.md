@@ -1,4 +1,4 @@
-![[Urzmaktok Grojsh.png|250]]
+![[Urzmaktok Grojsh 1.png|250]]
 ### Background
 - Second year Witherbloom student
 - Member of the Fantastical Horticulture Club

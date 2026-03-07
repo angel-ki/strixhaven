@@ -1,5 +1,5 @@
 ![[Pasted image 20250713112131.png|250]]
-Background
+### Background
 - Silverquill student
 - Member of Future Entrepreneurs of Strixhaven and the Strixhaven Star
 - He knows how to pick locks and often uses that skill to access places he is unauthorized to enter and search for secrets.

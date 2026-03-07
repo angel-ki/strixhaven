@@ -1,5 +1,5 @@
 ![[Pasted image 20250713111912.png|250]]
-Background
+### Background
 - Rampart is especially interested in research involving the founder dragons and wants to learn what happened to Zantafar, the ancient Loxodon he'd grown up listening to stories about his whole childhood
 	- https://magic.wizards.com/en/news/magic-story/mentor-2021-04-16
 

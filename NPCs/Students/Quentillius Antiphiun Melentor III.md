@@ -1,6 +1,8 @@
 ![[LmpwZw 1.webp|250]]
-Background
-
+### Background
+- Prismari student
+- Member of the Dead Languages Society and the Playactors Drama Guild
+- He plans his performances in the plays original language regardless of everyone else's language 
 ### Personality Traits
 - I will settle for nothing less than perfection.
 ### Ideals
