@@ -221,7 +221,7 @@ One of Sid's assistants explains what participants need to do in more detail tha
 
 Starting the Challenge. Once any questions are answered, Sid's sous-chefs position themselves around the large woks, ready to transform the ingredients into the final dish. Unless fewer than four characters are participating in the event, these assistants won't help to prepare the beans or the prawns. Sid leads the audience in counting down; "Three... two... one... start!" At this point, the characters and prawns should roll initiative.
 
-Bean Preparation. Massive bundles of green tree beans cover both preparation tables. Participants must chop or mash the beans with the various cooking knives at the table (treat them as [daggers](https://2014.5e.tools/items.html#dagger_phb)), their own tools, or other methods. Each pile is a single Small object with AC 10; hp 15; and immunity to cold, poison, and psychic damage. A pile is rendered unusable if it takes any amount of acid, fire, lightning, necrotic, or radiant damage. Once a pile of beans is reduced to 0 hit points, the sous-chefs add the prepared beans to the woks.
+Bean Preparation. Massive bundles of green tree beans cover both preparation tables. Participants must chop or mash the beans with the various cooking knives at the table (treat them as [daggers](https://2014.5e.tools/items.html#dagger_phb)), their own tools, or other methods. <span style="background:#fdbfff">Each pile is a single Small object with AC 10; hp 15; and immunity to cold, poison, and psychic damage</span>. A pile is rendered unusable if it takes any amount of acid, fire, lightning, necrotic, or radiant damage. Once a pile of beans is reduced to 0 hit points, the sous-chefs add the prepared beans to the woks.
 
 Prawn Preparation. The large tank contains four 8-foot-long jagged koi prawns (use the [giant sea horse](https://2014.5e.tools/bestiary.html#giant%20sea%20horse_mm) stat block). Participants must slay one of the prawns. Waiting sous-chefs then fish the prawn out and drag it to a wok. The prawns are not initially hostile but defend themselves if they take damage. They have [half cover](https://2014.5e.tools/quickreference.html#bookref-quick,3,cover) from any creature attacking from outside the water.
 
@@ -241,7 +241,7 @@ The Hide-and-Seek Challenge is sponsored by [Madam Kulp](https://2014.5e.tools/
 
 When the characters enter the tent, read or paraphrase the following text:
 
-> <font color="#c00000">Seated at the middle of this sizable empty tent is a wizened gnome at work amid tangles of colorful yarn. Several fuzzy, kitten-sized blue caterpillars drowse on her, nestled in her clothing and hair. The gnome peers up and says, "Welcome! I am [Madam Kulp](https://2014.5e.tools/bestiary.html#madam%20kulp_jttrc). Are you here to play hide-and-seek with my gentle friends?"</font>
+> <font color="#c00000">Seated at the middle of this sizable empty tent is a wizened gnome at work amid tangles of colorful yarn. Several fuzzy, kitten-sized blue caterpillars drowse on her, nestled in her clothing and hair. The gnome peers up and says, "Welcome! I am Madam Kulp. Are you here to play hide-and-seek with my gentle friends?"</font>
 
 [Madam Kulp](https://2014.5e.tools/bestiary.html#madam%20kulp_jttrc) is an elderly gnome woman (neutral [noble](https://2014.5e.tools/bestiary.html#noble_mm)). If the characters accept her challenge, she hops up and opens a trapdoor at the center of the tent. A ladder descends into a dark, messy room full of boxes and furniture.
 
@@ -257,7 +257,7 @@ The challenge area is depicted on [map 2.2](https://2014.5e.tools/adventure.htm
 
 Starting the Challenge. When the last character reaches the bottom of the ladder, [Madam Kulp](https://2014.5e.tools/bestiary.html#madam%20kulp_jttrc) shouts, "Ready? Go!" At this point, the characters should roll initiative.
 
-Finding Caterpillars. Four tut-krogh caterpillars hide among the cluttered rooms, one each in areas H3, H4, H5, and H7. A character can determine whether there is a caterpillar in a room by spending an action and succeeding on a <span style="background:#fff88f">DC 13 Intelligence (Investigation) or Wisdom (Perception) check</span>.
+Finding Caterpillars. Four tut-krogh caterpillars hide among the cluttered rooms, one each in areas <span style="background:#fdbfff">H3, H4, H5, and H7</span>. A character can determine whether there is a caterpillar in a room by spending an action and succeeding on a <span style="background:#fff88f">DC 13 Intelligence (Investigation) or Wisdom (Perception) check</span>.
 
 Collecting Caterpillars. Once a character finds a tut-krogh, they can convince the caterpillar to come with them by succeeding on a <span style="background:#fff88f">DC 10 Wisdom (Animal Handling) check</span>. Alternatively, a character can grab a caterpillar by succeeding on a <span style="background:#fff88f">DC 12 Dexterity (Sleight of Hand) check</span>. A caterpillar flees to an adjoining room if attacked or if a character tries to grab it and misses.
 

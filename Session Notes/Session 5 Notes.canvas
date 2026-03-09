@@ -1,9 +1,9 @@
 {
 	"nodes":[
-		{"id":"bb62f022b6f462f7","x":-880,"y":-315,"width":560,"height":400,"type":"file","file":"git-backup/Session Outlines/Session 5.md"},
-		{"id":"725c23057cbbccb4","x":-780,"y":200,"width":680,"height":400,"type":"file","file":"git-backup/Locations/Radiance/The Night Market.md"},
-		{"id":"d9afa6082f6acbc2","x":-7,"y":300,"width":700,"height":400,"type":"file","file":"git-backup/Locations/Radiance/The Salted Legacy.md"},
-		{"id":"5612cdfe153de17c","x":-60,"y":-240,"width":525,"height":375,"type":"text","text":"Session 5 Notes"}
+		{"id":"bb62f022b6f462f7","type":"file","file":"git-backup/Session Outlines/Session 5.md","x":-880,"y":-315,"width":560,"height":400},
+		{"id":"725c23057cbbccb4","type":"file","file":"git-backup/Locations/Radiance/The Night Market.md","x":-780,"y":200,"width":680,"height":400},
+		{"id":"d9afa6082f6acbc2","type":"file","file":"git-backup/Locations/Radiance/The Salted Legacy.md","x":-7,"y":300,"width":700,"height":400},
+		{"id":"5612cdfe153de17c","type":"text","text":"Session 5 Notes\n\n- PCs go to Radiance\n- Cosimo shows party his talisman and the symbol and tells them about how he's an orphan and doesn't know where his parents are or where he's from\n- They meet Aurora\n- Stalk after her \n- Witness argument\n- Deal between Morgan and Avery to buy school supplies and Morgan charges 2 gold per item\n- Morgan wins Spicy Brothers Challenge\n- Learn that stalls are haunted\n- Lamai is pelted by Persimmons\n- Sid Squid tells about Kasem\n- Morgan color sprays, Avery uses Anon to trip, and Lennian uses druidcraft to trap\n- Morgan makes three Wynling friends\n\t- They must roll at 10 and offer a food donation, they will come\n- PCs get a lifetime supply of seafood\n- Morgan gets 100 gold\n- Emban Sharoth is selling basic and pro packages\n\t- They include ink, an ink pen, paper, pocket guide to monsters, and an abacus","x":-60,"y":-240,"width":525,"height":440}
 	],
 	"edges":[]
 }
