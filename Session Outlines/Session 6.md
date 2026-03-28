@@ -1,6 +1,10 @@
-- Meetings with clubs
-	- Distinguished Society of Fine Artists
-		- Nora and Cadoras are present among others
-	- Dragonsguard Historical Society
-		- Rampart is present
-		- Takes place in a study room at the Biblioplex
+ Outline
+ 1. Characters share a downtime activity
+ 2. First class (A is for Ankheg: A Complete Guide to 26 Classic Monsters)
+
+A is for Ankheg: A Complete Guide to 26 Classic Monsters
+- Taught by Ruxa
+	- Emphasis on not judging a situation before learning more
+	- For first lesson as a trial by fire, she sends students into a monitored area of Sedgmoor that is home to a community of Almiraj
+		- Players can choose combat or rehabilitation
+		- 
