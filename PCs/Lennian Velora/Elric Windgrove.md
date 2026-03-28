@@ -4,10 +4,11 @@ Elric (he/him) is an upbeat, confident Bard guy (big himbo energy) who is next i
 
 Background
 ### Personality Traits
-- 
+- People frequently underestimate me because I like to have fun. What they don't know is that I take what I need to seriously and everything else is my pleasure.
 ### Ideals
-- 
+- Loyalty. I never rat out any of my friends (would do anything for Reyna and Lennian)
 ### Bonds
-- 
+- I wouldn't change my future as leader of the family business for anything. 
 ### Flaws
-- 
+- I'm a sucker for a pretty face. 
+- All I want is to have a good time.

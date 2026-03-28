@@ -1,1 +1,7 @@
-{}
+{
+	"nodes":[
+		{"id":"a7093f07ec41d051","x":-560,"y":-300,"width":540,"height":400,"type":"file","file":"git-backup/Session Outlines/Session 6.md"},
+		{"id":"0a7ee192514b1edb","x":40,"y":-180,"width":480,"height":340,"type":"text","text":""}
+	],
+	"edges":[]
+}
