@@ -1,5 +1,5 @@
 ![[Pasted image 20250713112336.png|250]]
-Background
+### Background
 - Quandrix student
 - She is a ticket taker for the Strixhaven Arts Society
 - She is a member of the Intramural Water-Dancing Club
