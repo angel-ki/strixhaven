@@ -1,0 +1,2 @@
+- Only involved because her father works for Extus Narr and her bloodsong ability
+- If she had a choice, she would not want to be working for Extus. To be honest, she thinks he hates her and is scared that one day it could get her killed

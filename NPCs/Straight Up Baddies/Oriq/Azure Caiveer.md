@@ -1,0 +1,2 @@
+- Became a member of the "true" Oriq in order to save the life of her friend. When assigned Oriq duties to recruit students or investigate new leads, she wears a dragon mask that holds her memories of the missions.
+- Aurora decides that she's going to tell Mina the truth about what's going on to try to save Azure after realizing this work is destroying her. She tells Azure first. When Azure next puts on the mask, she feels an uncontrollable urge to tell her handler what was going to happen. She doesn't survive the meeting. 

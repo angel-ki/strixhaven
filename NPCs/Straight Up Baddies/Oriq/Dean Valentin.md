@@ -1,0 +1,1 @@
+- As a Strixhaven student, was close with Extus and had fallen for him. Valentin believes that when the Oriq have completed their mission, the two will finally have a chance to be together. He's accepted that Extus will always care about blood war magic and resurrecting the blood archon over him.

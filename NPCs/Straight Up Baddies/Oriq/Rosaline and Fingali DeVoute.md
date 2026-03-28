@@ -1,0 +1,5 @@
+- Members of the Eclipse
+- Dedicated to returning artifacts in the ruins to Galathul
+- Fingali first discovered this in a mention in an obscure Biblioplex tome
+- At the beginning of Avery's life, the two were still graduate instructors and barely making ends meet
+- When an offer to earn more by joining the Eclipse and discover hidden history became available to them, they immediately jumped on it
