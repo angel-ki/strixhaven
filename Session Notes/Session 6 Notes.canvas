@@ -1,7 +1,7 @@
 {
 	"nodes":[
-		{"id":"a7093f07ec41d051","x":-560,"y":-300,"width":540,"height":400,"type":"file","file":"git-backup/Session Outlines/Session 6.md"},
-		{"id":"0a7ee192514b1edb","x":40,"y":-180,"width":480,"height":340,"type":"text","text":""}
+		{"id":"a7093f07ec41d051","type":"file","file":"git-backup/Session Outlines/Session 6.md","x":-560,"y":-300,"width":540,"height":400},
+		{"id":"0a7ee192514b1edb","type":"text","text":"Lennian spends time in library looking at books about resurrection\nGoes to the plants with personalities and trying to steal one\n\nCosimo would also spend time in the library looking into arcane sigils\n\nMorgan would go to the art studio and study ahead of class\n\nAvery goes to Professor Ruxa before class starts to make her acquaintance","x":40,"y":-180,"width":480,"height":340}
 	],
 	"edges":[]
 }
